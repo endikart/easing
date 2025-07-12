@@ -1,2 +1,2 @@
-# tween
-tweening functions
+# easing
+easing functions
